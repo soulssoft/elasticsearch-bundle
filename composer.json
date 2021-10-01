@@ -1,5 +1,5 @@
 {
-    "name": "m6web/elasticsearch-bundle",
+    "name": "soulssoft/elasticsearch-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Bundle on top of elasticsearch/elasticsearch-php",
     "license": "MIT",
